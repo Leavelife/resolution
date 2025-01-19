@@ -3,3 +3,4 @@ RESOLUTION
 -> Menyelesaikan web portofolio
 -> Membuat aplikasi berbasis crud
 -> Membuat aplikasi dengan keamanan yang terjamin
+-> Membuat sebuah database e-commers
