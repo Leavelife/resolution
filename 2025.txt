@@ -1,0 +1,5 @@
+RESOLUTION
+-> Menguasai dasar javacsript dan c++
+-> Menyelesaikan web portofolio
+-> Membuat aplikasi berbasis crud
+-> Membuat aplikasi dengan keamanan yang terjamin
