@@ -4,4 +4,5 @@ BISMILLAH 2025
 -> Menyelesaikan web portofolio
 -> Membuat aplikasi berbasis crud
 -> Membuat aplikasi dengan keamanan yang terjamin
--> Membuat sebuah database raltional
+-> Membuat sebuah database relational
+-> Aplikasi JWT dan Oauth
